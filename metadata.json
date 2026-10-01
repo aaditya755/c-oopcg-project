@@ -1,0 +1,6 @@
+{
+  "name": "Raylib C++ Retro Racer - Game Architecture & Playable Simulator",
+  "description": "Complete production-ready C++17/20 2D arcade car racing game built with Raylib, featuring modular architecture, physics, obstacle traffic AI, scoring, and an interactive in-browser simulation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
